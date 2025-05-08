@@ -16,6 +16,17 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npx expo start
    ```
 
+## Download the App
+
+You can download the latest version of the app directly from our GitHub releases:
+
+1. Visit our [Releases page](https://github.com/Saquib1973/todo-app-react-native/releases)
+2. Download the latest ZIP file
+3. Extract the ZIP file to get the APK
+4. Install the APK on your Android device
+
+Note: Make sure to enable "Install from Unknown Sources" in your Android settings to install the APK.
+
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
